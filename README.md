@@ -3,6 +3,8 @@
 **Team Members:** 
 
 -Shiwangi Mishra (SM9175)
+-Julius Dsouza (jd4702)
+-Jashay Lilani (jl11513)
 
 ## Dataset
 The dataset can be available from Google Drive [here](https://drive.google.com/drive/folders/1LEJR9aXC4sb4NGLZR8POmu-EVbucTBqj?usp=sharing)
