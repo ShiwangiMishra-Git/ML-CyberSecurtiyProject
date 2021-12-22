@@ -3,7 +3,9 @@
 **Team Members:** 
 
 -Shiwangi Mishra (SM9175)
+
 -Julius Dsouza (jd4702)
+
 -Jashay Lilani (jl11513)
 
 ## Dataset
