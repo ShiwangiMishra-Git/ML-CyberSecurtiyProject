@@ -11,7 +11,7 @@ The evaluate and the architecture file can be found from the CSAW HackML 2020 Ch
 
 ## Report 
 
-The report can be found in the repository [here](https://github.com/ShiwangiMishra-Git/ML-CyberSecurtiyProject/blob/master/ML-CyberSecurity-Project/ML%20Cyber%20Security%20Report.pdf). 
+The report can be found in the repository [here](https://github.com/ShiwangiMishra-Git/ML-CyberSecurtiyProject/blob/master/ML-CyberSecurity-Project/ML%20Cyber%20Security%20Project%20Report.pdf). 
 
 ## 1. Dependencies
 - Python
